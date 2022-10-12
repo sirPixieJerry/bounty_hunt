@@ -1,0 +1,25 @@
+{
+  "name": "bounty_hunt",
+  "version": "1.0.0",
+  "description": "a project for the projecting of Nitrado server logs in Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirPixieJerry/bounty_hunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirPixieJerry/bounty_hunt/issues"
+  },
+  "homepage": "https://github.com/sirPixieJerry/bounty_hunt#readme",
+  "dependencies": {
+    "axios": "^1.1.2",
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
